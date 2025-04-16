@@ -101,8 +101,11 @@ MemoTag is a doctor-facing mobile application developed using **Flutter** to ass
 
 ## 🔗 Demo
 
-🎬 Watch the full walkthrough here:  
-[![Demo Video]([https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg](https://youtube.com/shorts/jlUudTlOHXQ?si=QY0fUSjIHXCTvTl7))]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtube.com/shorts/jlUudTlOHXQ?si=QY0fUSjIHXCTvTl7))
+🎬 **Watch the demo video here**:  
+[https://youtube.com/shorts/jlUudTlOHXQ?si=QY0fUSjIHXCTvTl7](https://youtube.com/shorts/jlUudTlOHXQ?si=QY0fUSjIHXCTvTl7)
+
+[![Watch Demo](https://img.youtube.com/vi/jlUudTlOHXQ/0.jpg)](https://youtube.com/shorts/jlUudTlOHXQ?si=QY0fUSjIHXCTvTl7)
+
 
 ## 🙌 Acknowledgements
 Built as part of an internship submission task. Designed with care and attention to accessibility and UX for the elderly care domain.
