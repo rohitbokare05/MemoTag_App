@@ -1,0 +1,2 @@
+C:/Users/Lenovo/OneDrive/Desktop/MemoTag/memotag_app/android/app/.cxx/Debug/d5k6k2q4/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/OneDrive/Desktop/MemoTag/memotag_app/android/app/.cxx/Debug/d5k6k2q4/x86/CMakeFiles/rebuild_cache.dir
