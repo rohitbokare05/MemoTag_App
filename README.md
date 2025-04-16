@@ -88,14 +88,24 @@ MemoTag is a doctor-facing mobile application developed using **Flutter** to ass
 - Upload and visualize PDF reports from patients.
 
 ---
-## 📱 Screenshots
+## 📸 App Screenshots
 
-### Dashboard & Themes
-![Light Mode](screenshots/light_dashboard.png)
-![Dark Mode](screenshots/dark_dashboard.png)
-
-### Cognitive Health KPIs
-![Cognitive KPIs](screenshots/cognitive_kpi.png)
+<table>
+  <tr>
+    <td><img src="assets/dashboardlight.png" width="200"/></td>
+    <td><img src="assets/notil.png" width="200"/></td>
+    <td><img src="assets/cogl.png" width="200"/></td>
+    <td><img src="assets/phyl.png" width="200"/></td>
+    <td><img src="assets/profl.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/dashboarddark.png" width="200"/></td>
+    <td><img src="assets/notid.png" width="200"/></td>
+    <td><img src="assets/cogd.png" width="200"/></td>
+    <td><img src="assets/phyd.png" width="200"/></td>
+    <td><img src="assets/profd.png" width="200"/></td>
+  </tr>
+</table>
 
 ---
 
